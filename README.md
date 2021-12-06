@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Maddix</h1>
-<h3 align="center">A self taught Junior Developer</h3>
+<h3 align="center">A self taught Developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://adrian-maddix-portfolio.netlify.app/](https://adrian-maddix-portfolio.netlify.app/)
 
