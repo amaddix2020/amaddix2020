@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adrian Maddix</h1>
-<h3 align="center">A passionate Junior Software Developer</h3>
+<h3 align="center">A passionate Software Developer</h3>
 
 - 🌱 I’m currently learning **Python, Django**
 
