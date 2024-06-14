@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adrian Maddix</h1>
 <h3 align="center">A passionate Software Developer</h3>
 
-- 🌱 I’m currently learning **Python, Django**
+- 🌱 I’m currently learning **Java Springboot and Spring Framework**
 
 - 👨‍💻 All of my projects are available at [https://adrian-maddix-portfolio.netlify.app/](https://adrian-maddix-portfolio.netlify.app/)
 
